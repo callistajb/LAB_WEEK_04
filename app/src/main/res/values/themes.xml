@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <!-- Base application theme. -->
     <style name="Base.Theme.LAB_WEEK_04" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
@@ -12,7 +12,7 @@
     </style>
     <style name="Theme.NavigationDrawer.AppBarOverlay"
         parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
-    <style name="Theme.NavigationDrawer.PopularOverlay"
+    <style name="Theme.NavigationDrawer.PopupOverlay"
         parent="ThemeOverlay.AppCompat.Light"/>
 
     <style name="Theme.LAB_WEEK_04" parent="Base.Theme.LAB_WEEK_04" />
